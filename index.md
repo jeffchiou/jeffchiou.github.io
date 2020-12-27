@@ -1,9 +1,10 @@
 ## Redirect For My github.io Pages
 
-[https://jeffchiou.github.io/coordiscroll/](CoordiScroll)
-[https://jeffchiou.github.io/resume/](My Resume)
+[CoordiScroll](https://jeffchiou.github.io/coordiscroll/)
+
+[My Resume](https://jeffchiou.github.io/resume/)
 
 ## Other Links
 
-[https://www.jeffchiou.com/](jeffchiou.com)
+[jeffchiou.com](https://www.jeffchiou.com/)
 
